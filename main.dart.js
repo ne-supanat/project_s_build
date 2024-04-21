@@ -76136,10 +76136,10 @@ xC(a,b){return this.acC(a,b)},
 acC(a,b){var s=0,r=A.A(t.H),q=this
 var $async$xC=A.B(function(c,d){if(c===1)return A.x(d,r)
 while(true)switch(s){case 0:s=2
-return A.C(q.a.Kq("Int","CHALENGE_HIGH_SCORE_KEY_"+a,b),$async$xC)
+return A.C(q.a.Kq("Int","LEARNING_LEVEL_SCORE_KEY_"+a,b),$async$xC)
 case 2:return A.y(null,r)}})
 return A.z($async$xC,r)},
-F0(a){var s=A.fX(J.b8(this.a.a,"CHALENGE_HIGH_SCORE_KEY_"+a))
+F0(a){var s=A.fX(J.b8(this.a.a,"LEARNING_LEVEL_SCORE_KEY_"+a))
 return s==null?0:s}}
 A.af4.prototype={
 Rl(a){var s,r,q,p,o=A.a([],t.ho)
